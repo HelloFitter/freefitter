@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>Hexo添加评论</title>
+    <link href="/2020/06/10/addCommet/"/>
+    <url>/2020/06/10/addCommet/</url>
+    
+    <content type="html"><![CDATA[<h2 id="添加评论"><a href="#添加评论" class="headerlink" title="添加评论"></a>添加评论</h2><p>修改了配置文件，但是评论框总是出现不了，控制台也没有相关报错。苦恼啊。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hexo博客搭建</title>
     <link href="/2020/06/08/startPage/"/>
     <url>/2020/06/08/startPage/</url>
     
-    <content type="html"><![CDATA[<h2 id="搭建Hexo"><a href="#搭建Hexo" class="headerlink" title="搭建Hexo"></a>搭建Hexo</h2><p>之前自己搭建<a href="http://freefitter.com:1200/" target="_blank" rel="noopener">wordpress</a>的博客，晚上搜索下，还有人推荐Hexo的，然后就尝试着自己搞了个玩玩，发现并不复杂<br>参照了<a href="https://www.jianshu.com/p/4818be9093f5" target="_blank" rel="noopener">这个教程</a>还有<a href="https://hexo.fluid-dev.com/docs/" target="_blank" rel="noopener">官方的文档</a>。三下五除二干了起来。</p><h2 id="展示"><a href="#展示" class="headerlink" title="展示"></a>展示</h2><p>   搭建完成就是这样啦! <img src="/img/pre.png" srcset="/img/loading.gif" alt="成果展示"> 赶脚还行。</p><h2 id="说在最后"><a href="#说在最后" class="headerlink" title="说在最后"></a>说在最后</h2><p>   自己瞎折腾，没事整点事</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="搭建Hexo"><a href="#搭建Hexo" class="headerlink" title="搭建Hexo"></a>搭建Hexo</h2><p>之前自己搭建<a href="http://freefitter.com:1200/" target="_blank" rel="noopener">wordpress</a>的博客，网上搜索下，还有人推荐Hexo的，然后就尝试着自己搞了个玩玩，发现并不复杂<br>参照了<a href="https://www.jianshu.com/p/4818be9093f5" target="_blank" rel="noopener">这个教程</a>还有<a href="https://hexo.fluid-dev.com/docs/" target="_blank" rel="noopener">官方的文档</a>。三下五除二干了起来。</p><h2 id="展示"><a href="#展示" class="headerlink" title="展示"></a>展示</h2><p>   搭建完成就是这样啦! <img src="/img/pre.png" srcset="/img/loading.gif" alt="成果展示"> 赶脚还行。</p><h2 id="说在最后"><a href="#说在最后" class="headerlink" title="说在最后"></a>说在最后</h2><p>   自己瞎折腾，没事整点事</p>]]></content>
     
     
     
