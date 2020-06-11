@@ -949,7 +949,6 @@ input[type=checkbox]:checked:after {
 body::-webkit-scrollbar {
   width: 5px;
   height: 5px;
-/**/
 }
 body::-webkit-scrollbar-track {
   background: #efefef;
