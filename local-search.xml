@@ -23,19 +23,6 @@
   
   
   <entry>
-    <title>Hexo添加评论</title>
-    <link href="/2020/06/10/addCommet/"/>
-    <url>/2020/06/10/addCommet/</url>
-    
-    <content type="html"><![CDATA[<h2 id="添加评论"><a href="#添加评论" class="headerlink" title="添加评论"></a>添加评论</h2><p>修改了配置文件，但是评论框总是出现不了，控制台也没有相关报错。苦恼啊。</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hexo博客搭建</title>
     <link href="/2020/06/08/startPage/"/>
     <url>/2020/06/08/startPage/</url>
